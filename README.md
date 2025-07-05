@@ -8,9 +8,10 @@ config.json
 }
 ```
 
-## Table-Valued Functions (TVF) Setup
+<!-- ## Table-Valued Functions (TVF) Setup
 
 Before running the TVF benchmarks, you need to create the necessary Table-Valued Functions in your SQL Server database. Execute the `dataset/tvf.sql` script against your database.
+ -->
 
 ## Run in Terminal
 
